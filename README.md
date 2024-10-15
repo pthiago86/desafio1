@@ -1,2 +1,3 @@
 # desafio1
-Este é o projeto do desafio 1 do curso de Eng de Software da escola DNC
+Link do site disponibilizado: https://desafiopthiago86.netlify.app/
+Link da planilha de registro de informação: https://l1nk.dev/desafiopthiago86
